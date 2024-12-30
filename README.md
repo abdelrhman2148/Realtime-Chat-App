@@ -1,6 +1,5 @@
 # Realtime Chat Application
 
-![Project Banner](https://via.placeholder.com/1000x250.png?text=Realtime+Chat+Application)
 
 ## 🌟 Overview
 A modern, responsive, and feature-rich realtime chat web application designed and built by **Abdelrhman Fikri**. The app enables users to communicate in real-time with:
